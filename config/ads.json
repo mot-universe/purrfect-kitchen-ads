@@ -3,12 +3,12 @@
   "ads": [
     {
       "type": "image",
-      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@0821502f050d101b94e08d4c9f33b0ebbc1d5fcf/ads/1.png",
+      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@v0.0.0/ads/1.png",
       "clickUrl": "https://mot-universe.com/"
     },
     {
       "type": "image",
-      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@0821502f050d101b94e08d4c9f33b0ebbc1d5fcf/ads/2.png",
+      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@v0.0.0/ads/2.png",
       "clickUrl": "https://mot-universe.com/"
     }
   ]
