@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "ads": [
     {
       "type": "image",
@@ -7,8 +6,8 @@
       "clickUrl": "https://mot-universe.com/"
     },
     {
-      "type": "image",
-      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@v0.0.0/ads/2.png",
+      "type": "video",
+      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@v0.0.0/ads/2.mp4",
       "clickUrl": "https://mot-universe.com/"
     }
   ]
