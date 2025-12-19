@@ -3,12 +3,12 @@
   "ads": [
     {
       "type": "image",
-      "url": "https://cdn.jsdelivr.net/gh/mot-universe/REPO@TAG/ads/1.png",
+      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@<commitSHA>/ads/1.png",
       "clickUrl": "https://mot-universe.com/"
     },
     {
       "type": "image",
-      "url": "https://cdn.jsdelivr.net/gh/mot-universe/REPO@TAG/ads/2.png",
+      "url": "https://cdn.jsdelivr.net/gh/mot-universe/purrfect-kitchen-ads@<commitSHA>/ads/2.png",
       "clickUrl": "https://mot-universe.com/"
     }
   ]
